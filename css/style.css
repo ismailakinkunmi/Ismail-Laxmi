@@ -3,11 +3,8 @@ nav{
     justify-content: space-around;
     background-color: rgb(231, 221, 221);
     margin-bottom: 20px;
-<<<<<<< HEAD
 }
 
 @media only screen and (min-width: 960px) {
-    /* styles for browsers larger than 960px; */
-=======
->>>>>>> 984454ec15865c82eb94a913decc6672a857faf6
+    
 }
