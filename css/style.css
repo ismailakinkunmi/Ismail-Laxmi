@@ -1,0 +1,6 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(231, 221, 221);
+    margin-bottom: 20px;
+}
